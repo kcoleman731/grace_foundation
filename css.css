@@ -1,0 +1,103 @@
+h1, h2, h3, p, a {
+	color: gray;
+	font-family: "Marcellus";
+}
+
+body {
+	background-color: #f4f4f4;
+}
+
+h3 {
+	font-weight: 50;
+	font-size: 16px;
+}
+a {
+	text-align: center;
+	color: gray;
+	font-size: 16px;;
+	padding-left: 40px;
+	padding-right: 40px;
+	text-decoration: none !important;
+}
+
+p {
+	font-weight: 50;
+	font-size: 14px;
+}
+
+#border {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	width: 1240px;
+	box-shadow: 0px 2px 10px #bfbfbf;
+    border-radius: 2px;
+    background-color: white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#wrap {
+	width: 1024px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#container {
+	padding-top: 40px;
+}
+
+#bodyContainer {
+	padding-top: 40px;
+	padding-bottom: 80px;
+}
+
+#logoContainer img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#grayLine {
+	width: 200px;
+	height: 100px;
+	background-color: gray;
+}
+
+#linksContainer {
+	padding-top: 40px;
+	text-align: center;
+}
+
+#heroTextContainer img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#textPane {
+	width: 50%;
+	float: left;
+}
+
+#whoWeAreContainer {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#founderContainer {
+	text-align: center;
+	float: left;
+	width: 300px;
+	margin: 20px;
+}
+
+#movieContainer {
+	width: 1000px;
+	margin: 0 auto;
+}
+
