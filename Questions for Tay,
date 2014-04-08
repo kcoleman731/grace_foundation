@@ -1,0 +1,9 @@
+Questions for Tay, 
+
+Difference between UIManagedDocumet and NSManagedObjectModel 
+
+Do you ever use [UIManagedDocument performBlock:^{}]; to get on the same thread?
+
+
+TODO
+Encapsulate Gathering Creation Code in Gather
